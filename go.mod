@@ -1,1 +1,1 @@
-module github.com/eclipse/paho.mqtt.golang
+module github.com/zhbinary/paho.mqtt.golang
